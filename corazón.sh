@@ -23,7 +23,6 @@ while true; do
   echo "        *"
   sleep 0.3
   echo ""
-  echo "   💖 Hecho con Bash y amor 💖"
   sleep 1.2
 done
 
