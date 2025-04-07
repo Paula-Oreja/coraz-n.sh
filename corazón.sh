@@ -1,25 +1,29 @@
 #!/bin/bash
 
-clear
-echo ""
-sleep 0.3
-echo "      *     *"
-sleep 0.3
-echo "    ***   ***"
-sleep 0.3
-echo "   ***** *****"
-sleep 0.3
-echo "   ***********"
-sleep 0.3
-echo "    *********"
-sleep 0.3
-echo "     *******"
-sleep 0.3
-echo "      *****"
-sleep 0.3
-echo "       ***"
-sleep 0.3
-echo "        *"
-sleep 0.5
-echo ""
-echo "    💖 ¡Hecho con bash y amor! 💖"
+while true; do
+  clear
+  echo ""
+  sleep 0.2
+  echo "      *     *"
+  sleep 0.2
+  echo "    ***   ***"
+  sleep 0.2
+  echo "   ***** *****"
+  sleep 0.2
+  echo "   ***********"
+  sleep 0.2
+  echo "    *********"
+  sleep 0.2
+  echo "     *******"
+  sleep 0.2
+  echo "      *****"
+  sleep 0.2
+  echo "       ***"
+  sleep 0.2
+  echo "        *"
+  sleep 0.3
+  echo ""
+  echo "   💖 Hecho con Bash y amor 💖"
+  sleep 1.2
+done
+
